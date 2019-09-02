@@ -1,0 +1,90 @@
+
+zombie.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie_arm_L
+  rotate: true
+  xy: 219, 2
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+zombie_arm_R
+  rotate: true
+  xy: 531, 210
+  size: 44, 95
+  orig: 44, 95
+  offset: 0, 0
+  index: -1
+zombie_belt
+  rotate: false
+  xy: 541, 152
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+zombie_body
+  rotate: false
+  xy: 377, 105
+  size: 85, 102
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+zombie_cape
+  rotate: false
+  xy: 464, 130
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+zombie_hand_1
+  rotate: false
+  xy: 464, 110
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+zombie_hand_2
+  rotate: false
+  xy: 377, 77
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+zombie_head
+  rotate: false
+  xy: 2, 3
+  size: 215, 251
+  orig: 215, 251
+  offset: 0, 0
+  index: -1
+zombie_leg_L
+  rotate: true
+  xy: 307, 27
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+zombie_leg_R
+  rotate: false
+  xy: 628, 189
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+zombie_shadow
+  rotate: false
+  xy: 219, 209
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+zombie_weapon
+  rotate: false
+  xy: 219, 58
+  size: 156, 149
+  orig: 156, 149
+  offset: 0, 0
+  index: -1

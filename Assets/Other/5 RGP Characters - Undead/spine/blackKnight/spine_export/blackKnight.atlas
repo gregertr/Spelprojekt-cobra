@@ -1,0 +1,153 @@
+
+blackKnight.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackKnight_arm_L_1
+  rotate: false
+  xy: 450, 190
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+blackKnight_arm_L_2
+  rotate: false
+  xy: 387, 152
+  size: 61, 98
+  orig: 61, 98
+  offset: 0, 0
+  index: -1
+blackKnight_arm_R_1
+  rotate: true
+  xy: 450, 147
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+blackKnight_arm_R_2
+  rotate: false
+  xy: 116, 4
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+blackKnight_belt
+  rotate: false
+  xy: 606, 318
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+blackKnight_body
+  rotate: false
+  xy: 2, 2
+  size: 112, 98
+  orig: 112, 98
+  offset: 0, 0
+  index: -1
+blackKnight_cape_L
+  rotate: false
+  xy: 936, 431
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+blackKnight_cape_R
+  rotate: false
+  xy: 837, 400
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+blackKnight_head
+  rotate: false
+  xy: 2, 102
+  size: 181, 195
+  orig: 181, 195
+  offset: 0, 0
+  index: -1
+blackKnight_leg_L
+  rotate: true
+  xy: 495, 190
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+blackKnight_leg_R
+  rotate: true
+  xy: 495, 190
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+blackKnight_shadow
+  rotate: false
+  xy: 185, 252
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+blackKnight_weapon
+  rotate: true
+  xy: 2, 299
+  size: 206, 602
+  orig: 206, 602
+  offset: 0, 0
+  index: -1
+undeadHorse_belt
+  rotate: false
+  xy: 185, 128
+  size: 200, 122
+  orig: 200, 122
+  offset: 0, 0
+  index: -1
+undeadHorse_body
+  rotate: true
+  xy: 712, 324
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+undeadHorse_cape
+  rotate: true
+  xy: 497, 242
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+undeadHorse_head
+  rotate: true
+  xy: 606, 378
+  size: 127, 229
+  orig: 127, 229
+  offset: 0, 0
+  index: -1
+undeadHorse_leg_1_L
+  rotate: true
+  xy: 513, 152
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+undeadHorse_leg_2_R
+  rotate: true
+  xy: 513, 152
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+undeadHorse_leg_1_R
+  rotate: true
+  xy: 513, 152
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+undeadHorse_leg_2_L
+  rotate: true
+  xy: 513, 152
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1

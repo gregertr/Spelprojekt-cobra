@@ -1,0 +1,118 @@
+
+vampires.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vampires_arm_L_1
+  rotate: false
+  xy: 482, 149
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+vampires_arm_L_2
+  rotate: true
+  xy: 536, 209
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+vampires_arm_R_1
+  rotate: false
+  xy: 538, 149
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+vampires_arm_R_2
+  rotate: true
+  xy: 70, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+vampires_belt
+  rotate: false
+  xy: 2, 2
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+vampires_body
+  rotate: true
+  xy: 403, 152
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+vampires_hair
+  rotate: true
+  xy: 224, 54
+  size: 90, 139
+  orig: 90, 139
+  offset: 0, 0
+  index: -1
+vampires_hand_1
+  rotate: false
+  xy: 128, 23
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+vampires_hand_2
+  rotate: false
+  xy: 365, 127
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+vampires_head
+  rotate: false
+  xy: 2, 40
+  size: 220, 214
+  orig: 220, 214
+  offset: 0, 0
+  index: -1
+vampires_leg_L_1
+  rotate: true
+  xy: 651, 211
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+vampires_leg_L_2
+  rotate: true
+  xy: 591, 212
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+vampires_leg_R_2
+  rotate: true
+  xy: 591, 212
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+vampires_leg_R_1
+  rotate: true
+  xy: 701, 213
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+vampires_shadow
+  rotate: false
+  xy: 224, 209
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+vampires_weapon
+  rotate: false
+  xy: 224, 146
+  size: 177, 61
+  orig: 177, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton_arm_L
+  rotate: false
+  xy: 725, 23
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+skeleton_arm_R
+  rotate: false
+  xy: 813, 132
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+skeleton_body
+  rotate: false
+  xy: 725, 113
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+skeleton_cape_L
+  rotate: true
+  xy: 931, 159
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+skeleton_cape_R
+  rotate: false
+  xy: 862, 161
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+skeleton_hand_1
+  rotate: false
+  xy: 862, 141
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+skeleton_hand_2
+  rotate: true
+  xy: 782, 81
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+skeleton_head
+  rotate: false
+  xy: 437, 11
+  size: 286, 211
+  orig: 286, 211
+  offset: 0, 0
+  index: -1
+skeleton_leg_L
+  rotate: true
+  xy: 314, 2
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+skeleton_leg_R
+  rotate: true
+  xy: 314, 2
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+skeleton_shadow
+  rotate: false
+  xy: 2, 6
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1
+skeleton_weapon
+  rotate: true
+  xy: 2, 53
+  size: 169, 433
+  orig: 169, 433
+  offset: 0, 0
+  index: -1

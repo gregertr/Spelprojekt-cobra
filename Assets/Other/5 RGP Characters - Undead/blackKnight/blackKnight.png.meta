@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 99c36810713fe48d4af6d1d6f27eb084
+timeCreated: 1501341533
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blackKnight_arm_L_1
+    21300002: blackKnight_arm_L_2
+    21300004: blackKnight_arm_R_1
+    21300006: blackKnight_arm_R_2
+    21300008: blackKnight_belt
+    21300010: blackKnight_body
+    21300012: blackKnight_cape_L
+    21300014: blackKnight_cape_R
+    21300016: blackKnight_head
+    21300018: blackKnight_leg_L
+    21300020: blackKnight_leg_R
+    21300022: blackKnight_shadow
+    21300024: blackKnight_weapon
+    21300026: undeadHorse_belt
+    21300028: undeadHorse_body
+    21300030: undeadHorse_cape
+    21300032: undeadHorse_head
+    21300034: undeadHorse_leg_1_L
+    21300036: undeadHorse_leg_2_R
+    21300038: undeadHorse_leg_1_R
+    21300040: undeadHorse_leg_2_L
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackKnight_arm_L_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 262
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_arm_L_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 262
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_arm_R_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 324
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_arm_R_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 412
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_belt
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 136
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_body
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_cape_L
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 7
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_cape_R
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 7
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 181
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_leg_L
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 272
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_leg_R
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 272
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_shadow
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 215
+        width: 310
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blackKnight_weapon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 602
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_belt
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 262
+        width: 200
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_body
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 136
+        width: 95
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_cape
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 215
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_head
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 7
+        width: 229
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_leg_1_L
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 324
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_leg_2_R
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 324
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_leg_1_R
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 324
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: undeadHorse_leg_2_L
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 324
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

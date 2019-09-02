@@ -1,0 +1,83 @@
+
+ghost.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ghost_arm_L
+  rotate: true
+  xy: 873, 8
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+ghost_arm_R
+  rotate: true
+  xy: 734, 33
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+ghost_body_1
+  rotate: false
+  xy: 734, 98
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+ghost_body_2
+  rotate: false
+  xy: 418, 50
+  size: 156, 133
+  orig: 156, 133
+  offset: 0, 0
+  index: -1
+ghost_body_3
+  rotate: true
+  xy: 883, 84
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+ghost_body_4
+  rotate: false
+  xy: 576, 51
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+ghost_cape_L
+  rotate: true
+  xy: 817, 16
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+ghost_cape_R
+  rotate: true
+  xy: 951, 2
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+ghost_head_1
+  rotate: false
+  xy: 2, 13
+  size: 206, 217
+  orig: 206, 217
+  offset: 0, 0
+  index: -1
+ghost_head_2
+  rotate: false
+  xy: 210, 13
+  size: 206, 217
+  orig: 206, 217
+  offset: 0, 0
+  index: -1
+ghost_shadow
+  rotate: false
+  xy: 418, 185
+  size: 310, 45
+  orig: 310, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Magic
+  - Interactable
+  - Audio
+  - Path
+  - IgnoreCollision
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1945607741
+    locked: 0
+  - name: Forest
+    uniqueID: 2346196697
+    locked: 0
+  - name: Hidden Behind Grass
+    uniqueID: 1423222229
+    locked: 0
+  - name: Grass
+    uniqueID: 2707456201
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 3863966173
+    locked: 0
+  - name: Characters
+    uniqueID: 604855271
+    locked: 0
+  - name: HUD
+    uniqueID: 1574292949
+    locked: 0
